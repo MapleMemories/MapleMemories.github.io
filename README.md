@@ -9,6 +9,7 @@ Welcome to my GitHub homepage! I'm a Master's Candidate in Artificial Intelligen
 
 
 ## Education
+
 | Degree | Institution | Major | Year |
 |--------|-------------|-------|------|
 | Master's | Nanjing University of Information Science and Technology | Artificial Intelligence | 2023 - Present |
