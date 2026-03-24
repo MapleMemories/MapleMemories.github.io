@@ -13,7 +13,7 @@ Welcome to my GitHub homepage! I'm a Master's Candidate in Artificial Intelligen
 | Degree | Institution | Major | Year |
 |--------|-------------|-------|------|
 | Master's | Nanjing University of Information Science and Technology | Artificial Intelligence | 2023 - Present |
-
+| Bachelor's | Taizhou Institute of Sci.& Tech.NJUST | Computer Science and Technology | 2019 - 2023 |
 
 ## Research Interests
 - Computer Vision
