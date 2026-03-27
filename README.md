@@ -76,11 +76,11 @@
         <li>National Third Prize (Team), Group Programming Ladder Tournament (GPLT), 2023 (National)</li>
         <li>National Third Prize (Team), Group Programming Ladder Tournament (GPLT), 2022 (National)</li>
         <li>Second Prize, Jiangsu Region, 12th, 13th & 14th Lanqiao Cup National Software and Information Technology Professional Talent Competition, 2021–2023 (Provincial)</li>
+        <li>Second Prize, Jiangsu Division, 9th Jiangsu Provincial College Students' Computer Design Contest, 2022 (Provincial)</li>
+        <li>Second Prize, 19th Jiangsu Provincial College Mathematics Competition, 2022 (Provincial)</li>
         <li>Second Prize (Team), Jiangsu Province, Group Programming Ladder Tournament (GPLT), 2023 (Provincial)</li>
         <li>Third Prize (Team), Jiangsu Province, Group Programming Ladder Tournament (GPLT), 2022 (Provincial)</li>
         <li>Third Prize (Team), Jiangsu Universities, Group Programming Ladder Tournament (GPLT), 2021 (Provincial)</li>
-        <li>Second Prize, Jiangsu Division, 9th Jiangsu Provincial College Students' Computer Design Contest, 2022 (Provincial)</li>
-        <li>Second Prize, 19th Jiangsu Provincial College Mathematics Competition, 2022 (Provincial)</li>
         <li>Successful Completer, Two Jiangsu Provincial College Students' Innovation and Entrepreneurship Training Programs (Provincial)</li>
         <li>First-Class Academic Scholarship, awarded four times; Competition Scholarship, awarded five times (University Level)</li>
         <li>Honors: Merit Student, Excellent League Member, Outstanding Student Leader, Outstanding Graduate, Excellent Young Volunteer (University Level)</li>
