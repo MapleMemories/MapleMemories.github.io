@@ -53,7 +53,7 @@
 
   <h2>Research Interests</h2>
   <ul>
-    <li>Robot visual perception</li>
+    <li>Robot Visual Perception</li>
     <li>Computer Vision</li>
     <li>3D Point Cloud Processing</li>
     <li>Multi-modal Fusion</li>
